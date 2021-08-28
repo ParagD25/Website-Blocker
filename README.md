@@ -20,9 +20,30 @@ An Application where one can block any website for any amount of time.
 - Activate virtual python environment<br>
 `source venv/bin/activate`
 - Run Python file<br>
-`python `
+`python blocker.py`<br>
+⚠️ Run This file in cmd as an <strong>Administrator</strong> 
 
 ## Screenshot 🖼️:
+<h4 align="center">The website you want to block will come under this list.For example here twitter is blocked as its address is inside the blocking list.</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Website-Blocker/blob/master/Image/list.png" alt="home page" width="50%">
+</p>
+
+<br>
+
+<h3 align="center">Twitter Webpage :</h3>
+<p align="center">
+  <img src="https://github.com/ParagD25/Website-Blocker/blob/master/Image/twitter.png" alt="view" width="90%">
+</p>
+
+<br>
+
+<h4>Timing can be set using this line of code where red circle 🔴 represents the Starting Time and purple circle 🟣 represents the Ending Time.</h4>
+<p>Timings are in <strong>24-Hours</strong> Format.</p>
+<p align="center">
+  <img src="https://github.com/ParagD25/Website-Blocker/blob/master/Image/time.png" alt="home page" width="100%">
+</p>
+
 
 ## Contributing ©️:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
